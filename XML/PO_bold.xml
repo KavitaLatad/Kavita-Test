@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OrderForm>
+<POData>
+<AdditionalSigner/>
+<countryCode>AU</countryCode>
+<Comments>
+<body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.6.7185.0"></body>
+</Comments>
+<Equipment>
+<ServiceAgreementAccepted>
+<AgreementKey>81281</AgreementKey>
+<AgreementType>PREPAID/
+PAY AS YOU GO/
+INCLUDED</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$381</Doller>
+</Amount>
+<Description>+ package 03</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81281</AgreementKey>
+<AgreementType>PREPAID</AgreementType>
+<Amount>
+<Cents>55</Cents>
+<Doller>$1,500</Doller>
+</Amount>
+<Description>+ Rajesh V. Test Service Plan:Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<Amount>
+<Cents>00</Cents>
+<Doller>$508,203</Doller>
+</Amount>
+<ServiceAgreementDeclined>
+<AgreementKey>81281</AgreementKey>
+<AgreementType>PREPAID/
+INCLUDED/
+PAY AS YOU GO</AgreementType>
+<Description>- DECLINED : package 02</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ServiceAgreementDeclined>
+<AgreementKey>81281</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Description>- DECLINED : Support plan new 01</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ProductDescription>R4045 Self-Propelled Sprayer (Model Year 2016)</ProductDescription>
+<quantity>1</quantity>
+<isServiceOnlyEquipment>true</isServiceOnlyEquipment>
+<Status>1</Status>
+<TechnologyOptions>
+<Amount>
+<Cents>00</Cents>
+<Doller>$0</Doller>
+</Amount>
+<Description>1835 Less StarFire 3000 Receiver</Description>
+<isNew>X</isNew>
+<Quantity>1</Quantity>
+</TechnologyOptions>
+<TechnologyOptions>
+<Amount>
+<Cents>00</Cents>
+<Doller>$0</Doller>
+</Amount>
+<Description>1845 Less AutoTrac Activation</Description>
+<isNew>X</isNew>
+<Quantity>1</Quantity>
+</TechnologyOptions>
+<TechnologyOptions>
+<Amount>
+<Cents>00</Cents>
+<Doller>$0</Doller>
+</Amount>
+<Description>1900 Less John Deere Section Control</Description>
+<isNew>X</isNew>
+<Quantity>1</Quantity>
+</TechnologyOptions>
+</Equipment>
+<Equipment>
+<ServiceAgreementAccepted>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>PREPAID/
+PAY AS YOU GO/
+INCLUDED</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$381</Doller>
+</Amount>
+<Description>+ package 03</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>PREPAID</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$7,311</Doller>
+</Amount>
+<Description>+ PowerGard Protection :Sprayer,4930,New Units - still within basic warranty,Comprehensive - Full Machine,New - Delayed Purchase Period: Under 12 months &amp; 1000 hours,24 Total Months Or 2000 Total Hours,AU,500.00,18-May-2016</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Amount/>
+<Description>+ Support plan new 03</Description>
+<Quantity>3</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementDeclined>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>PREPAID/
+INCLUDED/
+PAY AS YOU GO</AgreementType>
+<Description>- DECLINED : package 02</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ServiceAgreementDeclined>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Description>- DECLINED : Support plan new 01</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ProductDescription>
+<body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.6.7185.0">4930 Sprayers<span style="font-weight: bold;"> (Customer Equipment Services)</span></body>
+</ProductDescription>
+<quantity>1</quantity>
+<isServiceOnlyEquipment>true</isServiceOnlyEquipment>
+</Equipment>
+<Equipment>
+<ServiceAgreementAccepted>
+<AgreementKey>81332</AgreementKey>
+<AgreementType>PREPAID/
+PAY AS YOU GO/
+INCLUDED</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$381</Doller>
+</Amount>
+<Description>+ package 03</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81332</AgreementKey>
+<AgreementType>PREPAID/
+INCLUDED/
+PAY AS YOU GO</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$381</Doller>
+</Amount>
+<Description>+ package 02</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81332</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Amount/>
+<Description>+ Support plan new 01</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementDeclined>
+<AgreementKey>81332</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Description>- DECLINED : Support plan new 03</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ProductDescription>
+<body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.6.7185.0">GREENSTAR 2 DISPLAY Displays and Receivers<span style="font-weight: bold;"> (Customer Equipment Services)</span></body>
+</ProductDescription>
+<quantity>1</quantity>
+<isServiceOnlyEquipment>true</isServiceOnlyEquipment>
+</Equipment>
+<Equipment>
+<ServiceAgreementAccepted>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>PREPAID</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$178</Doller>
+</Amount>
+<Description>+ Test package</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>PREPAID/
+PAY AS YOU GO</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$178</Doller>
+</Amount>
+<Description>+ Sales type package</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>PREPAID</AgreementType>
+<Amount>
+<Cents>76</Cents>
+<Doller>$62</Doller>
+</Amount>
+<Description>+ Test1_jdsc</Description>
+<Quantity>2</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>PREPAID</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$15,000</Doller>
+</Amount>
+<Description>+ Year Long Dealership Phone Support</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>PAY AS YOU GO</AgreementType>
+<Description>+ Test Service plan for sale center 02</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementDeclined>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>PREPAID/
+PAY AS YOU GO/
+INCLUDED</AgreementType>
+<Description>- DECLINED : package 04</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ServiceAgreementDeclined>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>PREPAID/
+INCLUDED/
+PAY AS YOU GO</AgreementType>
+<Description>- DECLINED : package 01</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ServiceAgreementDeclined>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>PREPAID</AgreementType>
+<Description>- DECLINED : Test Service plan for sale cernter 01</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ServiceAgreementDeclined>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Description>- DECLINED : Test Service plan for sale center 04</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ServiceAgreementDeclined>
+<AgreementKey>81280</AgreementKey>
+<AgreementType>PREPAID</AgreementType>
+<Description>- DECLINED : Test service</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ProductDescription>Customer Specific Service Agreements</ProductDescription>
+<isServiceOnlyEquipment>true</isServiceOnlyEquipment>
+</Equipment>
+<EquipmentDetail>
+<ServiceAgreementAccepted>
+<AgreementKey>81281</AgreementKey>
+<AgreementType>PREPAID/
+PAY AS YOU GO/
+INCLUDED</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$381</Doller>
+</Amount>
+<Description>+ package 03</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81281</AgreementKey>
+<AgreementType>PREPAID</AgreementType>
+<Amount>
+<Cents>55</Cents>
+<Doller>$1,500</Doller>
+</Amount>
+<Description>+ Rajesh V. Test Service Plan:Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.Dustin testing w/ Rajesh.</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<Amount>
+<Cents>00</Cents>
+<Doller>$508,203</Doller>
+</Amount>
+<ServiceAgreementDeclined>
+<AgreementKey>81281</AgreementKey>
+<AgreementType>PREPAID/
+INCLUDED/
+PAY AS YOU GO</AgreementType>
+<Description>- DECLINED : package 02</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ServiceAgreementDeclined>
+<AgreementKey>81281</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Description>- DECLINED : Support plan new 01</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<Option>
+<Code>0230</Code>
+<Description>Australia</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>0448</Code>
+<Description>English Text Free</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>188I</Code>
+<Description>JDLink Connect - Subscription Not Included</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>2310</Code>
+<Description>Cab</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>2410</Code>
+<Description>Radio</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>2854</Code>
+<Description>9.0 L Tier II</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>7060</Code>
+<Description>Traction Control</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>3542</Code>
+<Description>IF 380/105R50 In. LI177</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>4115</Code>
+<Description>Chemical Eductor, Large (Stainless Steel)</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>4210</Code>
+<Description>Manual Solution Control</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>4300</Code>
+<Description>Less Front Fill</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>4050</Code>
+<Description>Load Command Ready</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>5175</Code>
+<Description>120 Ft. Boom</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>5465</Code>
+<Description>BoomTrac Pro 5-Sensor System</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>5500</Code>
+<Description>Less Foam Marker</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>7540</Code>
+<Description>Less Boom Air Purge</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>7825</Code>
+<Description>LED Lighting Package</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>7901</Code>
+<Description>ISO Lighting and Marking with Application System</Description>
+<Quantity>1</Quantity>
+</Option>
+<Option>
+<Code>7925</Code>
+<Description>Less Radar</Description>
+<Quantity>1</Quantity>
+</Option>
+<ProductDescription>R4045 Self-Propelled Sprayer (Model Year 2016)</ProductDescription>
+<TechnologyOptions>
+<Code>1835</Code>
+<Name>Less StarFire 3000 Receiver</Name>
+<Quantity>1</Quantity>
+</TechnologyOptions>
+<TechnologyOptions>
+<Code>1845</Code>
+<Name>Less AutoTrac Activation</Name>
+<Quantity>1</Quantity>
+</TechnologyOptions>
+<TechnologyOptions>
+<Code>1900</Code>
+<Name>Less John Deere Section Control</Name>
+<Quantity>1</Quantity>
+</TechnologyOptions>
+</EquipmentDetail>
+<EquipmentDetail>
+<ServiceAgreementAccepted>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>PREPAID/
+PAY AS YOU GO/
+INCLUDED</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$381</Doller>
+</Amount>
+<Description>+ package 03</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>PREPAID</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$7,311</Doller>
+</Amount>
+<Description>+ PowerGard Protection :Sprayer,4930,New Units - still within basic warranty,Comprehensive - Full Machine,New - Delayed Purchase Period: Under 12 months &amp; 1000 hours,24 Total Months Or 2000 Total Hours,AU,500.00,18-May-2016</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Amount/>
+<Description>+ Support plan new 03</Description>
+<Quantity>3</Quantity>
+</ServiceAgreementAccepted>
+<Amount>
+<Cents>00</Cents>
+<Doller>$0</Doller>
+</Amount>
+<ServiceAgreementDeclined>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>PREPAID/
+INCLUDED/
+PAY AS YOU GO</AgreementType>
+<Description>- DECLINED : package 02</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ServiceAgreementDeclined>
+<AgreementKey>81282</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Description>- DECLINED : Support plan new 01</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ProductDescription>4930 Sprayers</ProductDescription>
+<registrationNumber>N04930X013493</registrationNumber>
+<SerialNumber>N04930X013493</SerialNumber>
+</EquipmentDetail>
+<EquipmentDetail>
+<ServiceAgreementAccepted>
+<AgreementKey>81332</AgreementKey>
+<AgreementType>PREPAID/
+PAY AS YOU GO/
+INCLUDED</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$381</Doller>
+</Amount>
+<Description>+ package 03</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81332</AgreementKey>
+<AgreementType>PREPAID/
+INCLUDED/
+PAY AS YOU GO</AgreementType>
+<Amount>
+<Cents>00</Cents>
+<Doller>$381</Doller>
+</Amount>
+<Description>+ package 02</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<ServiceAgreementAccepted>
+<AgreementKey>81332</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Amount/>
+<Description>+ Support plan new 01</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementAccepted>
+<Amount>
+<Cents>00</Cents>
+<Doller>$0</Doller>
+</Amount>
+<ServiceAgreementDeclined>
+<AgreementKey>81332</AgreementKey>
+<AgreementType>INCLUDED</AgreementType>
+<Description>- DECLINED : Support plan new 03</Description>
+<Quantity>1</Quantity>
+</ServiceAgreementDeclined>
+<ProductDescription>GREENSTAR 2 DISPLAY Displays and Receivers</ProductDescription>
+<registrationNumber>PCGU26H223381</registrationNumber>
+<SerialNumber>PCGU26H223381</SerialNumber>
+</EquipmentDetail>
+<isESignatureEnabled>false</isESignatureEnabled>
+<MarketUse>
+<Code>16</Code>
+<Description>Specialty Crop                                    </Description>
+</MarketUse>
+<PONumber>8853</PONumber>
+<PurchaseOrderSummary>
+<Balance>
+<Cents>31</Cents>
+<Doller>$533,957</Doller>
+</Balance>
+<BalanceDue>
+<Cents>04</Cents>
+<Doller>$587,353</Doller>
+</BalanceDue>
+<CashWithOrder>
+<Cents>00</Cents>
+<Doller>$0</Doller>
+</CashWithOrder>
+<Tax>
+<Amount>
+<Cents>73</Cents>
+<Doller>$53,395</Doller>
+</Amount>
+<Name>GST TAX</Name>
+<Percent>10.0</Percent>
+</Tax>
+<RentalApplied>
+<Cents>00</Cents>
+<Doller>$0</Doller>
+</RentalApplied>
+<SubTotal>
+<Cents>04</Cents>
+<Doller>$587,353</Doller>
+</SubTotal>
+<SubTotalMinusGST>
+<Cents>31</Cents>
+<Doller>$533,957</Doller>
+</SubTotalMinusGST>
+<TotalEquipmentPrice>
+<Cents>31</Cents>
+<Doller>$533,957</Doller>
+</TotalEquipmentPrice>
+<TotalPayOff>
+<Cents>00</Cents>
+<Doller>$0</Doller>
+</TotalPayOff>
+<TotalTradeInAllowance>
+<Cents>00</Cents>
+<Doller>$0</Doller>
+</TotalTradeInAllowance>
+</PurchaseOrderSummary>
+<Purchaser>
+<Address>
+<AddressLine1>WARGAM</AddressLine1>
+<City>LOCKHART</City>
+<Country>AU</Country>
+<State>NSW</State>
+<Zipcode>2656</Zipcode>
+</Address>
+<BusinessPhoneNumber>02-6920-5593</BusinessPhoneNumber>
+<CustomerType>B</CustomerType>
+<Email>STRONGS6@BIGPOND.COM</Email>
+<JDProfileNumber>327300291</JDProfileNumber>
+<Name>GLENARGAM FARMS </Name>
+<PhoneNumber>02-6920-5593</PhoneNumber>
+</Purchaser>
+<PurchaserType>
+<Code>9</Code>
+<Description>Farm                                              </Description>
+</PurchaserType>
+<quoteId>119411</quoteId>
+<QuoteIdStr>119411</QuoteIdStr>
+<Revision>Original</Revision>
+<revisionId>Original</revisionId>
+<SalesPersonName>ANDREW LEWIS</SalesPersonName>
+<SellingDealership>
+<Address>
+<AddressLine1>LOT 7 MOORONG STREET</AddressLine1>
+<City>WAGGA WAGGA</City>
+<State>NSW</State>
+<Zipcode>2650</Zipcode>
+</Address>
+<BranchCode>23</BranchCode>
+<CityStateZip>WAGGA WAGGA 2650</CityStateZip>
+<DealerAccount>230208</DealerAccount>
+<IsCFDealer>N</IsCFDealer>
+<Name>HUTCHEON &amp; PEARCE WAGGA</Name>
+<PhoneNumber>123456</PhoneNumber>
+</SellingDealership>
+<showDetails>1</showDetails>
+</POData>
+</OrderForm>

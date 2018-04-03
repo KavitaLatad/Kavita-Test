@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Proposal xmlns="http://domain.proposal.jdsc.deere.com/">
+<XDPName>Proposal_QuoteSummary</XDPName>
+<XDPName>Proposal_EquipmentDetail</XDPName>
+<XDPName>Proposal_ServiceAgreement_AU</XDPName>
+<QuoteInformation>
+<QuoteId>117849</QuoteId>
+<QuoteName>Kavita</QuoteName>
+<QuoteType>Purchase</QuoteType>
+<CurrentDate>11 April 2016</CurrentDate>
+<ModifiedDate>11 April 2016</ModifiedDate>
+<QuoteExpirationDate>15 April 2016</QuoteExpirationDate>
+<CreatedDate>08 April 2016</CreatedDate>
+</QuoteInformation>
+<DealerLogo></DealerLogo>
+<QuoteSummarySection>
+<CustomerNotes>
+<CustomerNotesHeading>Customer Notes</CustomerNotesHeading>
+<CustomerNote>
+<body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.6.7185.0">This is  test Customer </body>
+</CustomerNote>
+</CustomerNotes>
+<SummaryPageHeading>Quote Summary</SummaryPageHeading>
+<IncludingGSTHeading>(Pricing Displayed Includes 10.0% GST except where stated)</IncludingGSTHeading>
+<EquipmentDetails>
+<EquipmentSummaryHeading>Equipment Summary</EquipmentSummaryHeading>
+<SuggestedListHeading>Suggested List</SuggestedListHeading>
+<SellingPriceHeading>Selling Price</SellingPriceHeading>
+<QuantityHeading>Qty</QuantityHeading>
+<ExtendedHeading>Extended</ExtendedHeading>
+<EquipmentData>
+<Description>6125M Cab Tractor</Description>
+<SuggestedListPrice>111,879.90</SuggestedListPrice>
+<SellingListPrice>111,879.90</SellingListPrice>
+<Quantity>1</Quantity>
+<ExtendedPrice>111,879.90</ExtendedPrice>
+<ServiceAgreementData>
+<Description>PowerGard</Description>
+<PlanType>Prepaid</PlanType>
+<SellingListPrice>2,395.80</SellingListPrice>
+<Quantity>1</Quantity>
+<ExtendedPrice>2,395.80</ExtendedPrice>
+</ServiceAgreementData>
+<EquipmentSubTotal>
+<Description>SubTotal</Description>
+<SubTotal>114,275.70</SubTotal>
+</EquipmentSubTotal>
+</EquipmentData>
+<EquipmentData>
+<Description>469 Silage Special Round Baler</Description>
+<SuggestedListPrice>70,505.60</SuggestedListPrice>
+<SellingListPrice>70,505.60</SellingListPrice>
+<Quantity>1</Quantity>
+<ExtendedPrice>70,505.60</ExtendedPrice>
+</EquipmentData>
+<EquipmentData>
+<Description>NEW 2014 JOHN DEERE 0330PC Rate Controller GS2-PCRX00A160045</Description>
+<SuggestedListPrice>2,415.60</SuggestedListPrice>
+<SellingListPrice>4,112.39</SellingListPrice>
+<Quantity>1</Quantity>
+<ExtendedPrice>4,112.39</ExtendedPrice>
+</EquipmentData>
+</EquipmentDetails>
+<EquipmentsTotal>
+<EquipmentTotal>Equipment Total</EquipmentTotal>
+<EquipmentAmount>$188,893.69</EquipmentAmount>
+<EquipmentTotalGST>GST included above</EquipmentTotalGST>
+<EquipmentGSTAmount>$17,172.15</EquipmentGSTAmount>
+<EquipmentTotalExcludingGST>Equipment Total (Ex GST)</EquipmentTotalExcludingGST>
+<EquipmentAmountExcludingGST>$171,721.54</EquipmentAmountExcludingGST>
+</EquipmentsTotal>
+<TradeinDetails>
+<TradeInSummaryHeading>Trade In Summary</TradeInSummaryHeading>
+<QuantityHeading>Qty</QuantityHeading>
+<EachHeading>Each</EachHeading>
+<ExtendedHeading>Extended</ExtendedHeading>
+<TradeinData>
+<Description>2001 Toyota TOY-3000</Description>
+<Quantity>1</Quantity>
+<EachPrice>0.00</EachPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</TradeinData>
+<TradeinData>
+<Description>Pay-out</Description>
+<ExtendedPrice>0.00</ExtendedPrice>
+</TradeinData>
+<TradeinData>
+<Description>Equity in Trade</Description>
+<ExtendedPrice>0.00</ExtendedPrice>
+</TradeinData>
+<TradeinData>
+<Description>2001 Toyota TOY-1000</Description>
+<Quantity>1</Quantity>
+<EachPrice>0.00</EachPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</TradeinData>
+<TradeinData>
+<Description>Pay-out</Description>
+<ExtendedPrice>0.00</ExtendedPrice>
+</TradeinData>
+<TradeinData>
+<Description>Equity in Trade</Description>
+<ExtendedPrice>0.00</ExtendedPrice>
+</TradeinData>
+<TotalForTradesLabel>Total for Trades</TotalForTradesLabel>
+<TotalForTradesAmt>$0.00</TotalForTradesAmt>
+<TotalPayOutLabel>Total Pay-out</TotalPayOutLabel>
+<TotalPayOutAmt>$0.00</TotalPayOutAmt>
+<TradeInTotalHeading>Trade in Total</TradeInTotalHeading>
+<TradeInTotalAmt>$0.00</TradeInTotalAmt>
+</TradeinDetails>
+<EquipmentTotalLessTrade>Equipment Less Trade/s</EquipmentTotalLessTrade>
+<EquipmentTotalLessTradeAmt>188,893.69</EquipmentTotalLessTradeAmt>
+<GSTHeading>GST</GSTHeading>
+<GSTAmt>18,889.37</GSTAmt>
+<FeesWithGST/>
+<FeesWithoutGST/>
+<TradePayout>Plus Trade Payout</TradePayout>
+<TradePayoutAmt>0.00</TradePayoutAmt>
+<RentalApplied>
+<RentalAppliedHeading>Less Rental Applied</RentalAppliedHeading>
+<RentalAppliedAmt>0.00</RentalAppliedAmt>
+</RentalApplied>
+<BalanceDue>
+<BalanceDueHeading>Balance Due</BalanceDueHeading>
+<BalanceDue>$188,893.69</BalanceDue>
+</BalanceDue>
+<OrderConfirmationFee>
+<OrderConfirmationFeeHeading>Order Confirmation Fee (OCF)</OrderConfirmationFeeHeading>
+<OrderConfirmationFeeAmt>0.00</OrderConfirmationFeeAmt>
+</OrderConfirmationFee>
+<BalanceAfterOFC>Balance Due after OCF</BalanceAfterOFC>
+<BalanceAfterOFCAmt>$188,893.69</BalanceAfterOFCAmt>
+</QuoteSummarySection>
+<SellingEquipmentGruop>
+<SellingEquipmentHeading>Selling Equipment</SellingEquipmentHeading>
+<sellingEquipmentDetails>
+<CodeHeading>Code</CodeHeading>
+<DescriptionHeading>Description</DescriptionHeading>
+<QuantityHeading>Qty</QuantityHeading>
+<UnitHeading>Unit</UnitHeading>
+<ExtendedHeading>Extended</ExtendedHeading>
+<Equipment>
+<EquipmentName>6125M Cab Tractor</EquipmentName>
+<EquipmentData>
+<Code>00Q2L</Code>
+<Description>6125M Cab Tractor</Description>
+<Quantity>1</Quantity>
+<UnitPrice>109,885.60</UnitPrice>
+<ExtendedPrice>109,885.60</ExtendedPrice>
+</EquipmentData>
+<StandardOptions>
+<StandardOptionsHeading>Standard Options - Per Unit</StandardOptionsHeading>
+<StandardOptionsData>
+<Code>0230</Code>
+<Description>Australia</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>7707</Code>
+<Description>Preparation for Shipping by Truck and Ship - Overseas Shipment with Conservation</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>1002</Code>
+<Description>Series Tractor</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>0500</Code>
+<Description>No Package</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>1436</Code>
+<Description>PowrQuad™ PLUS 24F/24R Transmission with Left-hand PowrReverser™ (25 mph/40 km/h)</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>2051</Code>
+<Description>Standard Cab</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>2109</Code>
+<Description>Comfort Seat with Mechanical Suspension</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>2511</Code>
+<Description>Mirrors Manually Adjustable and Telescopic</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>2557</Code>
+<Description>Air Conditioning</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>2631</Code>
+<Description>Panorama Windshield with Right-hand (RH) Door</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>5212</Code>
+<Description>18.4R34 144A8 R1W Radial(460/85R34 147A8 R1W Radial)</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>5999</Code>
+<Description>No Tire Brand Preference</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>6220</Code>
+<Description>14.9R24 126A8 R1W Radial (380/85R24 131A8 R1W Radial)</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>6799</Code>
+<Description>No Tire Brand Preference</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>8765</Code>
+<Description>PowerFill Brakes</Description>
+<Quantity>1</Quantity>
+<UnitPrice>674.30</UnitPrice>
+<ExtendedPrice>674.30</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>3223</Code>
+<Description>Pressure-and-flow-compensated (PFC) Hydraulic System</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>3314</Code>
+<Description>2 mechanical SCVs (2 SCV 200 series)</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>3830</Code>
+<Description>Rear 540/540E/1000 rpm PTO</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>4113</Code>
+<Description>Draft Links with Hook End, Category 3N</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>4213</Code>
+<Description>Center Link with Ball End, Category 3</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>4410</Code>
+<Description>Sway Control Blocks</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>8434</Code>
+<Description>Swinging Drawbar with Hammerstrap</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>5031</Code>
+<Description>Flanged Axle, 8-Position Adjustable Steel Wheels</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>6043</Code>
+<Description>Mechanical Front Wheel Drive (MFWD) Axle, 8-Position Adjustable Rims</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsTotal>
+<StandardOptionsTotalHeading>Standard Options Total</StandardOptionsTotalHeading>
+<StandardOptionsTotalExtended>674.30</StandardOptionsTotalExtended>
+</StandardOptionsTotal>
+</StandardOptions>
+<OtherCharges>
+<OtherChargesHeading>Other Charges</OtherChargesHeading>
+<OtherChargesTotalHeading>Other Charges Total</OtherChargesTotalHeading>
+<OtherChargesEachTotal>$1,320.00</OtherChargesEachTotal>
+<Adjustment>
+<TempHeading>Freight</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>550.00</TempValue>
+<TempValueExt>550.00</TempValueExt>
+</Adjustment>
+<Adjustment>
+<TempHeading>Pre-Delivery/Set-Up</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>550.00</TempValue>
+<TempValueExt>550.00</TempValueExt>
+</Adjustment>
+<Adjustment>
+<TempHeading>freeform adj</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>220.00</TempValue>
+<TempValueExt>220.00</TempValueExt>
+</Adjustment>
+</OtherCharges>
+<EquipmentTotal>
+<EquipmentTotalIncludingGSTHeading>Total Selling Price Including GST</EquipmentTotalIncludingGSTHeading>
+<EquipmentTotalIncludingGSTAmt>$114,275.70</EquipmentTotalIncludingGSTAmt>
+</EquipmentTotal>
+<EquipmentListPrice>
+<EquipmentListPriceHeading>Suggested Price</EquipmentListPriceHeading>
+<EquipmentListPriceAmt>114,275.70</EquipmentListPriceAmt>
+</EquipmentListPrice>
+<PageBreak>true</PageBreak>
+<ShowListPrice>true</ShowListPrice>
+</Equipment>
+<Equipment>
+<EquipmentName>469 Silage Special Round Baler</EquipmentName>
+<EquipmentData>
+<Code>1927E</Code>
+<Description>469 Silage Special Round Baler</Description>
+<Quantity>1</Quantity>
+<UnitPrice>69,405.60</UnitPrice>
+<ExtendedPrice>69,405.60</ExtendedPrice>
+</EquipmentData>
+<StandardOptions>
+<StandardOptionsHeading>Standard Options - Per Unit</StandardOptionsHeading>
+<StandardOptionsData>
+<Code>0230</Code>
+<Description>Australia</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>0448</Code>
+<Description>English No Text</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>0808</Code>
+<Description>Package 8 (Code 0808)</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>1010</Code>
+<Description>540 rpm Power Take-Off (PTO) Hookup</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>4000</Code>
+<Description>Bale Push Bar</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>5500</Code>
+<Description>CoverEdge™ Surface Wrap</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsData>
+<Code>2020</Code>
+<Description>14L x 16.1 in., 8 PR HiFlow™ tires</Description>
+<Quantity>1</Quantity>
+<UnitPrice>0.00</UnitPrice>
+<ExtendedPrice>0.00</ExtendedPrice>
+</StandardOptionsData>
+<StandardOptionsTotal>
+<StandardOptionsTotalHeading>Standard Options Total</StandardOptionsTotalHeading>
+<StandardOptionsTotalExtended>0.00</StandardOptionsTotalExtended>
+</StandardOptionsTotal>
+</StandardOptions>
+<OtherCharges>
+<OtherChargesHeading>Other Charges</OtherChargesHeading>
+<OtherChargesTotalHeading>Other Charges Total</OtherChargesTotalHeading>
+<OtherChargesEachTotal>$1,100.00</OtherChargesEachTotal>
+<Adjustment>
+<TempHeading>Freight</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>110.00</TempValue>
+<TempValueExt>110.00</TempValueExt>
+</Adjustment>
+<Adjustment>
+<TempHeading>Pre-Delivery/Set-Up</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>220.00</TempValue>
+<TempValueExt>220.00</TempValueExt>
+</Adjustment>
+<Adjustment>
+<TempHeading>Test</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>330.00</TempValue>
+<TempValueExt>330.00</TempValueExt>
+</Adjustment>
+<Adjustment>
+<TempHeading>test2</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>440.00</TempValue>
+<TempValueExt>440.00</TempValueExt>
+</Adjustment>
+</OtherCharges>
+<EquipmentTotal>
+<EquipmentTotalIncludingGSTHeading>Total Selling Price Including GST</EquipmentTotalIncludingGSTHeading>
+<EquipmentTotalIncludingGSTAmt>$70,505.60</EquipmentTotalIncludingGSTAmt>
+</EquipmentTotal>
+<EquipmentListPrice>
+<EquipmentListPriceHeading>Suggested Price</EquipmentListPriceHeading>
+<EquipmentListPriceAmt>70,505.60</EquipmentListPriceAmt>
+</EquipmentListPrice>
+<PageBreak>true</PageBreak>
+<ShowListPrice>true</ShowListPrice>
+</Equipment>
+<Equipment>
+<EquipmentName>NEW 2014 JOHN DEERE 0330PC Rate Controller GS2-PCRX00A160045</EquipmentName>
+<HoursAndMeterReading>0</HoursAndMeterReading>
+<StockNumber>15738</StockNumber>
+<EquipmentData>
+<Code>1927E</Code>
+<Description>NEW 2014 JOHN DEERE 0330PC Rate Controller GS2</Description>
+<Quantity>1</Quantity>
+<UnitPrice>1,838.10</UnitPrice>
+<ExtendedPrice>1,838.10</ExtendedPrice>
+</EquipmentData>
+<CustomerDiscount>
+<CustomerDiscountHeading>Customer Discounts</CustomerDiscountHeading>
+<CustomerDiscountTotalHeading>Customer Discounts Total</CustomerDiscountTotalHeading>
+<CustomerDiscountEachTotalAmount>(1,696.79)</CustomerDiscountEachTotalAmount>
+<CustomerDiscountExtendedTotalAmount>(1,696.79)</CustomerDiscountExtendedTotalAmount>
+</CustomerDiscount>
+<OtherCharges>
+<OtherChargesHeading>Other Charges</OtherChargesHeading>
+<OtherChargesTotalHeading>Other Charges Total</OtherChargesTotalHeading>
+<OtherChargesEachTotal>$577.50</OtherChargesEachTotal>
+<Adjustment>
+<TempHeading>Freight</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>330.00</TempValue>
+<TempValueExt>330.00</TempValueExt>
+</Adjustment>
+<Adjustment>
+<TempHeading>Pre-Delivery/Set-Up</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>110.00</TempValue>
+<TempValueExt>110.00</TempValueExt>
+</Adjustment>
+<Adjustment>
+<TempHeading>misc adj1</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>55.00</TempValue>
+<TempValueExt>55.00</TempValueExt>
+</Adjustment>
+<Adjustment>
+<TempHeading>misc adj 2</TempHeading>
+<QuantityForIdenticalAdjustments>1</QuantityForIdenticalAdjustments>
+<TempValue>82.50</TempValue>
+<TempValueExt>82.50</TempValueExt>
+</Adjustment>
+</OtherCharges>
+<EquipmentTotal>
+<EquipmentTotalIncludingGSTHeading>Total Selling Price Including GST</EquipmentTotalIncludingGSTHeading>
+<EquipmentTotalIncludingGSTAmt>$4,112.39</EquipmentTotalIncludingGSTAmt>
+</EquipmentTotal>
+<EquipmentListPrice>
+<EquipmentListPriceHeading>Suggested Price</EquipmentListPriceHeading>
+<EquipmentListPriceAmt>2,415.60</EquipmentListPriceAmt>
+</EquipmentListPrice>
+<PageBreak>false</PageBreak>
+<ShowListPrice>true</ShowListPrice>
+</Equipment>
+<EquipmentNotesHeading>Equipment Notes</EquipmentNotesHeading>
+<HoursAndMeterReadingHeading>Hours</HoursAndMeterReadingHeading>
+<StockNumberHeading>Stock Number</StockNumberHeading>
+</sellingEquipmentDetails>
+</SellingEquipmentGruop>
+<ServiceAgreementDetails/>
+<Customer>
+<Name>DAVID KAY</Name>
+<Company></Company>
+<AddressLine1>LANSDOWNE BOYDS RD USE THIS</AddressLine1>
+<City>THE ROCK</City>
+<State>NSW</State>
+<PostalCode>2655</PostalCode>
+<HomePhone></HomePhone>
+<Phone></Phone>
+<CellPhone></CellPhone>
+<Email></Email>
+<CityStateZipCode>THE ROCK,NSW 2655</CityStateZipCode>
+</Customer>
+<SecondCustomer/>
+<SalesPerson>
+<Name>DAVID CHAFFEY</Name>
+<Email>dchaffey@hutcheonandpearce.com.au</Email>
+</SalesPerson>
+<Dealer>
+<Name>DAVID CHAFFEY</Name>
+<DealershipName>HUTCHEON &amp; PEARCE WAGGA</DealershipName>
+<AddressLine1>LOT 7 MOORONG STREET</AddressLine1>
+<City>WAGGA WAGGA</City>
+<State>NSW</State>
+<PostalCode>2650</PostalCode>
+<Email>dchaffey@hutcheonandpearce.com.au</Email>
+<CityStateZipCode>WAGGA WAGGA,NSW 2650</CityStateZipCode>
+</Dealer>
+<HideItemizedPrices>false</HideItemizedPrices>
+<HideZeroAmountsFromSummary>true</HideZeroAmountsFromSummary>
+<ShowCodesOnEquipmentSection>false</ShowCodesOnEquipmentSection>
+<ShowPriceDetailsOnEquipmentSection>true</ShowPriceDetailsOnEquipmentSection>
+<productInfoPagePosition></productInfoPagePosition>
+</Proposal>

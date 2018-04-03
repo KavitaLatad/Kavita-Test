@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OrderForm>
+    <POData>
+        <AdditionalSigner/>
+        <countryCode>AU</countryCode>
+        <Comments><![CDATA[test]]></Comments>
+        <DealerABNACNNumber><![CDATA[]]></DealerABNACNNumber>
+        <Equipment>
+            <Amount>
+                <Cents>00</Cents>
+                <Doller>$3,272</Doller>
+            </Amount>
+            <ProductDescription>D110 Lawn Tractor</ProductDescription>
+            <quantity>1</quantity>
+            <isServiceOnlyEquipment>true</isServiceOnlyEquipment>
+            <Status>1</Status>
+        </Equipment>
+        <EquipmentDetail>
+            <Amount>
+                <Cents>00</Cents>
+                <Doller>$3,272</Doller>
+            </Amount>
+            <ProductDescription>D110 Lawn Tractor</ProductDescription>
+        </EquipmentDetail>
+        <GeneratedDate>30-Mar-2017</GeneratedDate>
+        <isESignatureEnabled>true</isESignatureEnabled>
+        <MarketUse>
+            <Code>70</Code>
+            <Description>Airport, Railroad, Other Transit                  </Description>
+        </MarketUse>
+        <PONumber>12930</PONumber>
+        <PurchaseOrderSummary>
+            <Balance>
+                <Cents>00</Cents>
+                <Doller>$3,272</Doller>
+            </Balance>
+            <BalanceDue>
+                <Cents>20</Cents>
+                <Doller>$3,599</Doller>
+            </BalanceDue>
+            <CashWithOrder>
+                <Cents>00</Cents>
+                <Doller>$0</Doller>
+            </CashWithOrder>
+            <FeesExclGST>
+                <Amount/>
+                <Name>sss</Name>
+            </FeesExclGST>
+            <Tax>
+                <Amount>
+                    <Cents>20</Cents>
+                    <Doller>$327</Doller>
+                </Amount>
+                <Name>GST TAX</Name>
+                <Percent>10.0</Percent>
+            </Tax>
+            <RentalApplied>
+                <Cents>00</Cents>
+                <Doller>$0</Doller>
+            </RentalApplied>
+            <SubTotal>
+                <Cents>20</Cents>
+                <Doller>$3,599</Doller>
+            </SubTotal>
+            <SubTotalMinusGST>
+                <Cents>00</Cents>
+                <Doller>$3,272</Doller>
+            </SubTotalMinusGST>
+            <TotalEquipmentPrice>
+                <Cents>00</Cents>
+                <Doller>$3,272</Doller>
+            </TotalEquipmentPrice>
+            <TotalPayOff>
+                <Cents>00</Cents>
+                <Doller>$0</Doller>
+            </TotalPayOff>
+            <TotalTradeInAllowance>
+                <Cents>00</Cents>
+                <Doller>$0</Doller>
+            </TotalTradeInAllowance>
+        </PurchaseOrderSummary>
+        <Purchaser>
+            <abnAcnNo><![CDATA[]]></abnAcnNo>
+            <Address>
+                <AddressLine1>12 STREET</AddressLine1>
+                <City>DALBY</City>
+                <Country>AU</Country>
+                <State>QLD</State>
+                <Zipcode>4405</Zipcode>
+            </Address>
+            <BusinessPhoneNumber>07-8547-9658</BusinessPhoneNumber>
+            <CustomerType>B</CustomerType>
+            <Email></Email>
+            <JDProfileNumber>504203995</JDProfileNumber>
+            <Name>TEST NEW TEST 23</Name>
+            <PhoneNumber>07-8547-9658</PhoneNumber>
+            <TradingAs></TradingAs>
+        </Purchaser>
+        <PurchaserType>
+            <Code>9</Code>
+            <Description>Farm                                              </Description>
+        </PurchaserType>
+        <quoteId>143597</quoteId>
+        <QuoteIdStr>143597</QuoteIdStr>
+        <Revision>Original</Revision>
+        <revisionId>Original</revisionId>
+        <SalesPersonName><![CDATA[ANDREW SANDS]]></SalesPersonName>
+        <SellingDealership>
+            <Address>
+                <AddressLine1>57 MOORONG STREET</AddressLine1>
+                <City>WAGGA WAGGA</City>
+                <State>NSW</State>
+                <Zipcode>2650</Zipcode>
+            </Address>
+            <BranchCode>23</BranchCode>
+            <CityStateZip>WAGGA WAGGA 2650</CityStateZip>
+            <DealerAccount>230208</DealerAccount>
+            <IsCFDealer>N</IsCFDealer>
+            <Name>Hutcheon &amp; Pearce Operations Pty Ltd</Name>
+            <PhoneNumber>123456</PhoneNumber>
+        </SellingDealership>
+        <showDetails>1</showDetails>
+    </POData>
+</OrderForm>
